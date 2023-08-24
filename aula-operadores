@@ -1,0 +1,47 @@
+// this is a js file
+//Mateus Anjos
+/*
+// resposta 1
+a.  false
+b.  false
+c.  true
+d.  boolean
+
+// resposta 2
+sera impresso dois prompts pedindo um numero cada, 
+sera mostrado um numero ao lado do outro
+
+// resposta 3
+let n1 = Number (prompt("Digite um numero!"));
+let n2 = Number (prompt("Digite outro numero!"));
+const soma = (n1 + n2);
+console.log (soma);
+
+// exercicio b 1
+let idade = Number (prompt ("Qual a sua idade?"));
+console.log ("Sua idade é", idade);
+let amigo = Number (prompt ("Qual a idade do seu melhor amigo?"));
+console.log (amigo);
+console.log ("Sua idade é maior do que a do seu melhor amigo?", idade > amigo);
+console.log ("A diferenca de idade de voces é", amigo - idade, "ano(s)")
+/
+// exercicio b 2
+let par = Number (prompt("Insira um numero par"));
+console.log (par % 2);
+// o resto de qual quer divisao por um numero par sera 0
+// o resto sempre sera 1
+
+// exercicio b3 
+let idade = Number (prompt("Qual a sua idade?"));
+console.log ("Sua idade em meses é;", 12 * idade);
+console.log ("Sua idade em dias é:", 365 * idade);
+console.log ("Sua idade em horas é:", 8766 * idade);
+
+//exercicio b 4
+let n1 = Number (prompt("Digite um numero"));
+let n2 = Number (prompt("Digite outro numero"));
+console.log (n1 > n2);
+console.log (n1 === n2);
+console.log (Boolean(n1 % n2));
+console.log (Boolean( n2 % n2 === 0));
+*/
